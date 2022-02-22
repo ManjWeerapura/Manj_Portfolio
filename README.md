@@ -34,9 +34,9 @@ using OpenCV image moments can help in automating cell identification as well as
 # [PROJECT 3: Heart Failure Mortality Prediction](https://github.com/ManjWeerapura/python_projects/blob/main/Heart_Failure_Mortality_Prediction/heart-failure-mortality-predictions.ipynb)
 In this project, the goal is to be able to predict, using Machine Learning models, the survival outcome in patients with heart failure given the presence of various risk factors such as hypertension, diabetes, smoking and anaemia as well as blood markers such as serum creatinine, serum sodium and creatinine phosphokinase.
 
-![](https://github.com/ManjWeerapura/Manj_Portfolio/blob/main/HF_mortality_risk.png)
+![](https://github.com/ManjWeerapura/Manj_Portfolio/blob/main/HF_mortality_risk.png?raw=true)
 
 # [PROJECT 4: Coronary Artery Disease Prediction](https://github.com/ManjWeerapura/python_projects/blob/main/Coronary_Artery_Disease_Prediction/Heart_Disease_data_read.ipynb)
 In this project, I explore the predictive capability of a Machine Learning model to correctly identify if a patient suffers from coronary artery disease (coronary artery narrowing) based on various non-invasive parameters such as ECG and exercise stress tests  as well as serum cholesterol and sugar levels.
 
-![](https://github.com/ManjWeerapura/Manj_Portfolio/blob/main/Chest_pain_type.png)
+![](https://github.com/ManjWeerapura/Manj_Portfolio/blob/main/Chest_pain_type.png?raw=true)
