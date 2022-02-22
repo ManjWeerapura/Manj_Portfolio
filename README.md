@@ -29,14 +29,14 @@ OpenCV was used to process an image of a blood film to identify and mark the sic
 contours around all blood cells followed by using image moments to separate normal round blood cells from the abnormal sickle cells. It is hoped that sickle cell differentiation 
 using OpenCV image moments can help in automating cell identification as well as determination of the severity of the anaemia.
 
-![](https://github.com/ManjWeerapura/Manj_Portfolio/blob/main/sickle_cell_rs.png)
+![](/main/sickle_cell_rs.png)
 
 # [PROJECT 3: Heart Failure Mortality Prediction](https://github.com/ManjWeerapura/python_projects/tree/main/Heart_Failure_Mortality_Prediction)
 In this project, the goal is to be able to predict, using Machine Learning models, the survival outcome in patients with heart failure given the presence of various risk factors such as hypertension, diabetes, smoking and anaemia as well as blood markers such as serum creatinine, serum sodium and creatinine phosphokinase.
 
-![](https://github.com/ManjWeerapura/Manj_Portfolio/blob/main/HF_mortality_risk.png)
+![](/main/HF_mortality_risk.png)
 
 # [PROJECT 4: Coronary Artery Disease Prediction](https://github.com/ManjWeerapura/python_projects/tree/main/Coronary_Artery_Disease_Prediction)
 In this project, I explore the predictive capability of a Machine Learning model to correctly identify if a patient suffers from coronary artery disease (coronary artery narrowing) based on various non-invasive parameters such as ECG and exercise stress tests  as well as serum cholesterol and sugar levels.
 
-![](https://github.com/ManjWeerapura/Manj_Portfolio/blob/main/Chest_pain_type.png)
+![](/main/Chest_pain_type.png)
