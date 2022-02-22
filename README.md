@@ -39,4 +39,4 @@ In this project, the goal is to be able to predict, using Machine Learning model
 # [PROJECT 4: Coronary Artery Disease Prediction](https://github.com/ManjWeerapura/python_projects/blob/main/Coronary_Artery_Disease_Prediction/Heart_Disease_data_read.ipynb)
 In this project, I explore the predictive capability of a Machine Learning model to correctly identify if a patient suffers from coronary artery disease (coronary artery narrowing) based on various non-invasive parameters such as ECG and exercise stress tests  as well as serum cholesterol and sugar levels.
 
-![](https://github.com/ManjWeerapura/Manj_Portfolio/blob/main/Chest_pain_type.png?raw=true)
+![](https://github.com/ManjWeerapura/Manj_Portfolio/blob/main/Chest_pain_type.png)
