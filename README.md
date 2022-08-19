@@ -5,7 +5,7 @@ In this project, effectiveness of Time Series models to predict share prices wer
 
 ![](https://github.com/ManjWeerapura/Manj_Portfolio/blob/main/Value_investor.png?raw=true)
 
-# [PROJECT 2 : Image Classification using OpenCV and Deep Learning](https://github.com/ManjWeerapura/MyProject/blob/main/Project_4_MonReader/MonReader_6.ipynb))
+# [PROJECT 2 : Image Classification using OpenCV and Deep Learning](https://github.com/ManjWeerapura/MyProject/blob/main/Project_4_MonReader/MonReader_6.ipynb)
 In this project, a Convolutional Neural Network model was created to correctly identify if an image from a document scanning technology (MonReader) shows the instance when a page is being flipped or not. The trained model was able to identify test images from the same platform with an overall accuracy of 80%.  The trained model was also generalized enough to correctly identifying custom images that were from a different source.
 
 
