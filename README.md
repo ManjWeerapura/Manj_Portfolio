@@ -11,7 +11,7 @@ In this project, a Convolutional Neural Network model was created to correctly i
 ![](https://github.com/ManjWeerapura/Manj_Portfolio/blob/main/MonReader1.png?raw=true)
 ![](https://github.com/ManjWeerapura/Manj_Portfolio/blob/main/MonReader2.png?raw=true)
 
-# [PROJECT 3 : Term Deposit Marketing –Data Analysis and Machine Learning to Predict Customer Subscription to a Term Deposit Account](https://github.com/ManjWeerapura/MyProject/blob/main/Project_4_MonReader/MonReader_6.ipynb)
+# [PROJECT 3 : Term Deposit Marketing –Data Analysis and Machine Learning to Predict Customer Subscription to a Term Deposit Account](https://github.com/ManjWeerapura/MyProject/blob/main/Project_2_Term_Deposit_Marketing/XvUFCXU1r4gS2yWr4.ipynb)
 Exploratory Data Analysis and several Machine Learning models were used to predict if a certain segment of bank customers were likely to subscribe for a term deposit account. The trained XGBoost model showed limited success in correctly identifying customers subscribing customers with an accuracy of about 36% (recall metric). Oversampling the training data using SMOTE slightly improved this accuracy metric to 46%. A balanced data set may help improving the model’s prediction accuracy.
 
 ![](https://github.com/ManjWeerapura/Manj_Portfolio/blob/main/term_deposit?raw=true)
