@@ -3,7 +3,7 @@ Portfolio web page
 # [PROJECT 1 : Value Investor -  Time Series Forecasting of Stock Prices](https://github.com/ManjWeerapura/MyProject/blob/main/Project_5_Value_Investor/Value_investor_7.ipynb)
 In this project, effectiveness of Time Series models to predict share prices were evaluated using Python. Using optimized parameters, an ARIMA (Auto Regressive Integrated Moving Average) model, ARIMAX (ARIMA with associated with an exogenous variable X) model, a simple Moving Average (MA) model or a Simple Exponential Smoothing (SES) model were used to predict next day’s share price for a particular stock. In a portfolio simulation, predicted share prices were then used to make informed trading decisions (Buy, Sell or Hold) on a daily basis based on its deviation from the trailing mean (Bollinger Bands method). Performance of the Time Series models were more profitable compared to a portfolio that only used uninformed (random) trading decisions daily. The latter approach generally resulted in a loss in the long term. Time Series models may prove as valuable tools in the investing sector focused on short-term profitability (e.g. day trading).
 
-![](https://github.com/ManjWeerapura/Manj_Portfolio/blob/main/term_deposit.png?raw=true)
+![](https://github.com/ManjWeerapura/Manj_Portfolio/blob/main/Value_investor.png?raw=true)
 
 
 # [PROJECT 4 : Covid-19 Epitope Prediction for in-silico Vaccine Design](https://github.com/ManjWeerapura/python_projects/blob/main/Covid19_epitope_prediction_for_vaccine_development/Covid19_antibody_prediction.ipynb)
